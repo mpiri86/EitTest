@@ -61,6 +61,10 @@ namespace Api_Integrated_Test
 		{
 			
 		}
+		public void branch1EitclientTestconfilig1()
+		{
+			
+		}
 
         
     }
