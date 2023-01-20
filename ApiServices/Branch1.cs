@@ -43,14 +43,15 @@ namespace Api_Integrated_Test
 
 
                     generateStr += "//////////Body :" + System.Environment.NewLine+ System.Environment.NewLine;
-                    generateStr += ContentStr + System.Environment.NewLine;
+                    generateStr += "helloooooo" + System.Environment.NewLine; 
                 }
                 catch (Exception e)
                 {
-                    generateStr += "Error   :  Cant convert Body To String ..." + System.Environment.NewLine;
+                   console.writeline("Exception");
 
                 }
             }
+			
             
 
             return generateStr;
