@@ -68,6 +68,7 @@ namespace Api_Integrated_Test
 
         public void branch1Testconfilig()
 		{
+			// add from laptop
 			//add from eit
 			//add from eit 2
 			
