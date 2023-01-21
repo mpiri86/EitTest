@@ -72,6 +72,7 @@ namespace Api_Integrated_Test
 			//add from eit
 			//add from eit 2
 			// add from server 
+			//add from server 1
 			
 		}
 
